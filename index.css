@@ -1,4 +1,22 @@
 .title{
     font-family: 'Lucida Sans';
-
+    font-style: italic;
+    font-size: 50px;
+    text-align: center;
+    color: lightcoral;
+    text-shadow: 10px 10px 10px black;
+}
+div{
+    background-color: rgba(250, 139, 135, 0.267);
+}
+.menu{
+    font-size: large;
+    text-align: center;
+}
+img{
+    display: block;
+    margin: 0 auto;
+    
+    max-width: 100%;
+    
 }
